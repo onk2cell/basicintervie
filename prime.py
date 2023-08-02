@@ -1,1 +1,1 @@
-#chek number is prime or not 
+#chek number is prime or not b
