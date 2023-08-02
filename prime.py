@@ -1,1 +1,1 @@
-#chek number is prime or not b
+#chek number is prime or not bdccjjcjaeedcc
