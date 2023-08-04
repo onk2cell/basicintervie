@@ -1,1 +1,4 @@
-#chek number is prime or not 
+
+n = 245
+sq = n**(1/2)
+print(int(sq))
